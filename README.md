@@ -1,4 +1,6 @@
 # MOEX Report Generator
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/) [![Stars](https://img.shields.io/github/stars/stephanvoytov/moex-report)](https://github.com/stephanvoytov/moex-report/stargazers)
+
 
 Р“РµРЅРµСЂРёСЂСѓРµС‚ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРёРµ РѕС‚С‡С‘С‚С‹ РїРѕ РёРЅРґРµРєСЃР°Рј MOEX Рё РґРѕР»Р»Р°СЂР° РЎРЁРђ Рє СЂСѓР±Р»СЋ. РЎРѕР±РёСЂР°РµС‚ РґР°РЅРЅС‹Рµ РІ СЂРµР°Р»СЊРЅРѕРј РІСЂРµРјРµРЅРё Рё СЃРѕР·РґР°С‘С‚ РґРµС‚Р°Р»СЊРЅС‹Рµ Word-РґРѕРєСѓРјРµРЅС‚С‹ (.docx) СЃ Р°РЅР°Р»РёС‚РёРєРѕР№ Рё СЂРµРєРѕРјРµРЅРґР°С†РёСЏРјРё.
 
